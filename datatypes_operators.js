@@ -1,7 +1,21 @@
+// Exercise 1: Numbers
+const number = 100;
+const number2 = 50.20;
+addition = number + number2;
+subtraction = number - number2;
+multiplication = number * number2;
+division = number / number2;
+modulus = number % number2;
+exponentiation = number ** number2;
+console.log(addition);
+console.log(subtraction);
+console.log(multiplication);
+console.log(division);
+console.log(modulus);
+console.log(exponentiation);
 
 /* 1.Use comparison operators to compare two numbers and
 store the results in boolean variables **/
-
 let value1 = 20;
 let value2 = 50;
 
